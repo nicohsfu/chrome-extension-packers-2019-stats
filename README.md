@@ -17,4 +17,4 @@ To try my hand at developing a Chrome extension and fetching data to display to 
 
 ## Demo
 
-![project demo](gifHereLater)
+![project demo](https://raw.githubusercontent.com/nicohsfu/chrome-extension-packers-2019-stats/a473382c6f0ad61d1aec181d08a9643160af24eb/demo-chrome-ext-pack-stats.gif)
