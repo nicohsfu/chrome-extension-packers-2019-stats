@@ -1,0 +1,11 @@
+{
+  "name": "Packers 2019 offense",
+  "version": "1.0.0",
+  "description": "Packers 2019 offense stats",
+  "manifest_version": 3,
+  "author": "Nico Hernandez",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Go Pack Go!"
+  }
+}
